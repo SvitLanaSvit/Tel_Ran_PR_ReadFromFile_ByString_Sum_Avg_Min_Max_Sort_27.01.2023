@@ -1,0 +1,2 @@
+Line #1; SEven: 5050; AOdd: 51; Max: 100; Min: 1
+Line #4; SEven: 5050; AOdd: 51; Max: 100; Min: 1
